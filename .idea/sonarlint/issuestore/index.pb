@@ -1,0 +1,23 @@
+
+}
+Mapp/src/test/java/com/campusknot/newsapiclient/data/api/NewsAPIServiceTest.kt,a/5/a5de276adfaa2af8c9e81c714bcc11aea67660e2
+o
+?app/src/main/java/com/campusknot/newsapiclient/SavedFragment.kt,b/7/b7f96862f7f49a2252896177ac655cef19f4e488
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+X
+(gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+@
+local.properties,0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+n
+>app/src/main/java/com/campusknot/newsapiclient/InfoFragment.kt,9/3/93e8ddb2bdd8c3a40c0d6cc708b76696e3d5ec5b
+t
+Dapp/src/main/java/com/campusknot/newsapiclient/data/util/Resource.kt,c/b/cb50bb1a85e450e533b099329d671c93a27b4c02
+ƒ
+Sapp/src/main/java/com/campusknot/newsapiclient/presentation/adapters/NewsAdapter.kt,5/7/571e26b5729c62c426267c98c9e1b6f10f4be847
